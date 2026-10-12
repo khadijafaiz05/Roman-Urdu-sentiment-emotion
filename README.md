@@ -4,7 +4,7 @@
 
 **Members:** Eman Faisal, Mahnoor Fatima, Khadija Faiz
 
-**Instructor:** Hajra Waheed · **Track:** A (Research & Development)
+ **Track:** A (Research & Development)
 
 ## Overview
 
