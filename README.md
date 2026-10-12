@@ -2,7 +2,7 @@
 Sentiment and emotion classification for Roman Urdu-English code-switched tweets, comparing TF-IDF classifiers, BiLSTM and fine-tuned multilingual transformers.
 CodeSwitchSense: Sentiment and Emotion Detection in Roman Urdu-English Code-Switched Text
 
-Group F26-09 · AI2002 Artificial Intelligence (BDS-5A) · FAST-NUCES Lahore Members: Eman Faisal, Mahnoor Fatima, Khadija Faiz Instructor: Hajra Waheed · Track: A (Research & Development)
+Group F26-09 · AI2002 Artificial Intelligence (BDS-5A) · FAST-NUCES Lahore Members: Eman Faisal, Mahnoor Fatima, Khadija Faiz Instructor: 
 
 Overview
 
